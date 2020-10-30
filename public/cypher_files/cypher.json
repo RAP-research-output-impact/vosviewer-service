@@ -1,0 +1,139 @@
+{
+        "network": {
+            "items": [
+                {
+                    "id": "107407",
+                    "label": "17 Psychology and Cognitive Sciences"
+                },
+                {
+                    "id": "107408",
+                    "label": "1701 Psychology"
+                },
+                {
+                    "id": "107448",
+                    "label": "1402 Applied Economics"
+                },
+                {
+                    "id": "107449",
+                    "label": "14 Economics"
+                },
+                {
+                    "id": "107417",
+                    "label": "16 Studies in Human Society"
+                },
+                {
+                    "id": "107423",
+                    "label": "1606 Political Science"
+                },
+                {
+                    "id": "107416",
+                    "label": "1608 Sociology"
+                },
+                {
+                    "id": "107417",
+                    "label": "16 Studies in Human Society"
+                },
+                {
+                    "id": "107466",
+                    "label": "18 Law and Legal Studies"
+                },
+                {
+                    "id": "107467",
+                    "label": "1801 Law"
+                },
+                {
+                    "id": "107417",
+                    "label": "16 Studies in Human Society"
+                },
+                {
+                    "id": "107473",
+                    "label": "1605 Policy and Administration"
+                },
+                {
+                    "id": "107459",
+                    "label": "13 Education"
+                },
+                {
+                    "id": "107482",
+                    "label": "1303 Specialist Studies In Education"
+                },
+                {
+                    "id": "107407",
+                    "label": "17 Psychology and Cognitive Sciences"
+                },
+                {
+                    "id": "107433",
+                    "label": "1702 Cognitive Sciences"
+                },
+                {
+                    "id": "107417",
+                    "label": "16 Studies in Human Society"
+                },
+                {
+                    "id": "107424",
+                    "label": "1601 Anthropology"
+                },
+                {
+                    "id": "107417",
+                    "label": "16 Studies in Human Society"
+                },
+                {
+                    "id": "107455",
+                    "label": "1604 Human Geography"
+                }
+            ],
+            "links": [
+                {
+                    "source_id": "107407",
+                    "target_id": "107408",
+                    "strength": "996"
+                },
+                {
+                    "source_id": "107448",
+                    "target_id": "107449",
+                    "strength": "518"
+                },
+                {
+                    "source_id": "107417",
+                    "target_id": "107423",
+                    "strength": "440"
+                },
+                {
+                    "source_id": "107416",
+                    "target_id": "107417",
+                    "strength": "403"
+                },
+                {
+                    "source_id": "107466",
+                    "target_id": "107467",
+                    "strength": "293"
+                },
+                {
+                    "source_id": "107417",
+                    "target_id": "107473",
+                    "strength": "271"
+                },
+                {
+                    "source_id": "107459",
+                    "target_id": "107482",
+                    "strength": "162"
+                },
+                {
+                    "source_id": "107407",
+                    "target_id": "107433",
+                    "strength": "153"
+                },
+                {
+                    "source_id": "107417",
+                    "target_id": "107424",
+                    "strength": "125"
+                },
+                {
+                    "source_id": "107417",
+                    "target_id": "107455",
+                    "strength": "121"
+                }
+            ]
+        }
+    }
+}
